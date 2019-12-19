@@ -1,0 +1,1 @@
+gcc find.c -o find.exe -static-libgcc
